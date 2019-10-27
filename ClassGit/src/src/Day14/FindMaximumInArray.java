@@ -18,8 +18,9 @@ public class FindMaximumInArray {
                 //myArray[i] = 2 and max = 0
                 if (myArray[i] > max)
                     max = myArray[i];
-
-                System.out.println(max);
             }
+
+            System.out.println(max);
+
         }
     }

@@ -35,7 +35,7 @@ public class HomeWorkforday14 {
         System.out.println("TASK3-------------------------------------");
         int sum = 0;
         for (int currentNumber : myArray) {
-            sum += currentNumber;
+            sum += currentNumber;    //sum = sum + currentNumber
         }
         double average = (double) sum / myArray.length;
         System.out.println("Average:  " + average);

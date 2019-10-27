@@ -50,7 +50,6 @@ public class FindMinumumLnArray {
                 if (myArray[i] < min) {
                     min = myArray[i];
                 }
-
             }
             System.out.println(min);
         }

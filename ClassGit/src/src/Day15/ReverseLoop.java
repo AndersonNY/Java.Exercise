@@ -20,6 +20,13 @@ public class ReverseLoop {
             //arr.forr, gives reverse loop starting from last index to 0
             for (int i = myIntArray.length - 1; i >= 0; i--) {
 
+
+                // for (int i = myIntArray.length - 1; i>=0; i--
+
+                // System.out.println("\nreverse");
+
+                // for (int i =
+
             }
 
             System.out.println("\nreverse");

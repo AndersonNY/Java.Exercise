@@ -31,9 +31,6 @@ public class ArrayTask2 {
             arr[i] = scan.nextInt();
         }
 
-        //HINT Part2:
-        // start from length()-1
-        // use i-- to decrement
 
 
         for (int i = 0; i < arr.length; i++) {
